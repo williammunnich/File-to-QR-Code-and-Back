@@ -1,0 +1,7 @@
+joblib==1.4.2
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+pillow==11.0.0
+pyzbar==0.1.9
+pyzxing==1.0.2
+qrcode==8.0
